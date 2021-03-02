@@ -1,0 +1,41 @@
+body {
+	text-align: center;
+	background-color: rgb(230,230,230);
+	color:rgb(255,255,255	);
+	background-image: url(images/4.jpg);
+	background-size: cover;
+	font-family: courier;
+}
+h1 {
+	color: rgb(0;0;0);
+	font-family: Helvetica;
+	text-shadow: 3px 3px 3px grey;
+	padding-top: 120px;
+}
+h2 {
+	text-decoration: underline;
+}
+h3 {
+	
+	margin-top: 80px;
+}
+
+p{
+	font-size: 20px;
+}
+ul {
+	text-decoration: none;
+}
+ul:hover{
+}
+
+.lista {
+	text-align: center;
+	list-style: none;
+	font-size: 40px;
+	padding-left: 0;
+	margin-top: 5px
+}
+.lista a{
+	color: white;
+}
